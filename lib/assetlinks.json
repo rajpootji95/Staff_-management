@@ -1,0 +1,12 @@
+[
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fieldmanager_hrms.flutter.fieldmanager_hrms_flutter",
+    "sha256_cert_fingerprints":
+    ["DD:2F:C0:AE:B5:31:74:92:D8:99:20:3E:51:FB:CB:88:C7:50:D1:E7:64:8C:E1:FC:39:22:0C:89:F8:F5:0A:96"]
+  }
+ }
+]
+
